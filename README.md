@@ -364,10 +364,10 @@ Returns a response containing the job details
   - The company logo images in Jobs Route should have the alt as **company logo**
 
 - **Job Details Route**
-  - The company logo image should have the alt as **job details company logo**
-  - The life at company image should have the alt as **life at company**
-  - The skill images should have the alt as the value of the key `name` from each object in the **skills** list received from the job details response
-  - The company logo image in similar job item should have the alt as **similar job company logo**
+  - The company logo image have the alt as **job details company logo**
+  - The life at company image have the alt as **life at company**
+  - The skill images have the alt as the value of the key `name` from each object in the **skills** list received from the job details response
+  - The company logo image in similar job item have the alt as **similar job company logo**
   </details>
 
 ### Resources
