@@ -1,6 +1,6 @@
 In this project, I have build a **Jobby App** by applying the concepts I have learned till now.
 
-### You can checout the website here : https://rahulsJobbyApp.ccbp.tech
+### You can checkout the website here : https://rahulsJobbyApp.ccbp.tech
 
 ### Refer to videos below:
 
