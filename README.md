@@ -20,7 +20,7 @@ In this project, I have build a **Jobby App** by applying the concepts I have le
 </div>
 <br/>
 
-### Design Files
+### Designed Files
 
 <details>
 <summary>Login Route</summary>
@@ -63,7 +63,7 @@ In this project, I have build a **Jobby App** by applying the concepts I have le
 - [Medium (Size >= 768px), Large (Size >= 992px) and Extra Large (Size >= 1200px) - Not Found](https://assets.ccbp.in/frontend/content/react-js/jobby-app-not-found-lg-output-v0.png)
 </details>
 
-### Completion Instructions
+### Features Description
 
 <details>
 <summary>Functionality added</summary>
