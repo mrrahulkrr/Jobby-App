@@ -63,6 +63,13 @@
   outline: none;
 }
 
+.test-username {
+  color: #6c798a;
+  margin-top: 1px;
+  align-self: flex-start;
+  margin-bottom: 2px;
+}
+
 .password-input-field {
   color: #ffffff;
   font-size: 14px;
