@@ -6,8 +6,8 @@ import AllJobSection from '../AllJobSection'
 const Jobs = () => (
   <>
     <Header />
-    <div className="job-container">
-      <div className="job-sections">
+    <div className="jobs-container">
+      <div className="jobs-sections">
         <AllJobSection />
       </div>
     </div>
